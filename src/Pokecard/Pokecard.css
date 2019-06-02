@@ -4,9 +4,9 @@
   text-align: center;
 }
 .Pokecard-img {
-  width: 50px;
+  width: 80px;
 }
 .Pokecard-img:hover {
-  width: 52px;
-  box-shadow: 1px lightslategray;
+  width: 95px;
+  box-shadow: 3px lightslategray;
 }
