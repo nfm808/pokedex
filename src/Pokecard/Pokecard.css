@@ -1,0 +1,12 @@
+.Pokecard {
+  width: 25%;
+  padding: 18px;
+  text-align: center;
+}
+.Pokecard-img {
+  width: 50px;
+}
+.Pokecard-img:hover {
+  width: 52px;
+  box-shadow: 1px lightslategray;
+}
